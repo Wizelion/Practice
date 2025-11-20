@@ -1,1 +1,7 @@
- 
+secrets1
+secrets2
+.DS_Store
+#coments, not to value...
+#(*.txt) is to ignore all file.txt
+
+
